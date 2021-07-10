@@ -7,3 +7,5 @@ No se requiere ninguna configuracion adicional para poner a correr dichos ejerci
 
 **Ambiente java para VSCode**
 https://code.visualstudio.com/docs/languages/java
+
+V 0.0.1
