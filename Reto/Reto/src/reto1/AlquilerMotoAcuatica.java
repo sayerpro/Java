@@ -1,3 +1,5 @@
+package reto1;
+
 public class AlquilerMotoAcuatica {
 
     private int Id;
