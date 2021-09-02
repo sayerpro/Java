@@ -54,7 +54,7 @@ public class Alquiler {
             costoPorHora = costoPorHora * 2;
         }
         if (descuento) {
-            int procentajeDescuento = this.ObtenerDescuento();
+            double procentajeDescuento = (double) this.ObtenerDescuento();
             costoPorHora = costoPorHora - (costoPorHora * (procentajeDescuento / 100));
 
         }
